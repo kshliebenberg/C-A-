@@ -1,0 +1,9 @@
+c:\users\kyle.inter-active\documents\visual studio 2015\Projects\AStar\AStar\bin\Debug\AStar.exe.config
+c:\users\kyle.inter-active\documents\visual studio 2015\Projects\AStar\AStar\bin\Debug\AStar.exe
+c:\users\kyle.inter-active\documents\visual studio 2015\Projects\AStar\AStar\bin\Debug\AStar.pdb
+c:\users\kyle.inter-active\documents\visual studio 2015\Projects\AStar\AStar\obj\Debug\AStar.csprojResolveAssemblyReference.cache
+c:\users\kyle.inter-active\documents\visual studio 2015\Projects\AStar\AStar\obj\Debug\AStar.Form1.resources
+c:\users\kyle.inter-active\documents\visual studio 2015\Projects\AStar\AStar\obj\Debug\AStar.Properties.Resources.resources
+c:\users\kyle.inter-active\documents\visual studio 2015\Projects\AStar\AStar\obj\Debug\AStar.csproj.GenerateResource.Cache
+c:\users\kyle.inter-active\documents\visual studio 2015\Projects\AStar\AStar\obj\Debug\AStar.exe
+c:\users\kyle.inter-active\documents\visual studio 2015\Projects\AStar\AStar\obj\Debug\AStar.pdb
